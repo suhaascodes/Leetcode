@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/suhaascodes/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2810-faulty-keyboard](https://github.com/suhaascodes/Leetcode/tree/master/2810-faulty-keyboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suhaascodes/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/suhaascodes/Leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/suhaascodes/Leetcode/tree/master/0500-keyboard-row) |
+| [2810-faulty-keyboard](https://github.com/suhaascodes/Leetcode/tree/master/2810-faulty-keyboard) |
 ## Trie
 |  |
 | ------- |
