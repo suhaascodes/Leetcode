@@ -1,27 +1,20 @@
 class Solution {
     public String[] findWords(String[] words) {
         ArrayList<String> res = new ArrayList<>();
-        String a = "qwertyuiopQWERTYUIOP";
-        String b = "asdfghjklASDFGHJKL";
-        String c = "zxcvbnmZXCVBNM";       
-        for(String word:words) {
-            boolean ina=false,inb=false,inc=false;
-            for (char ch:word.toCharArray()){
-                if(found(a,ch))ina=true;
-                if(found(b,ch))inb=true;
-                if(found(c,ch))inc=true;
+        String s1 = "qwertyuiopQWERTYUIOP";
+        String s2 = "asdfghjklASDFGHJKL";
+        String s3 = "zxcvbnmZXCVBNM";
+        for (String word:words) {
+            boolean r1=true, r2=true, r3=true;
+            for(char ch:word.toCharArray()) {
+                r1 &= s1.indexOf(ch) != -1;
+                r2 &= s2.indexOf(ch) != -1;
+                r3 &= s3.indexOf(ch) != -1;
             }
-            if(ina==true && inb==true || ina==true && inc==true || inb==true && inc==true)continue;
-            res.add(word);
+            if (r1 || r2 || r3) {
+                res.add(word);
+            }
         }
-        return res.toArray(new String[0]);
-        
-        
-    }
-    public boolean  found(String s,char ch){
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)==ch)return true;
-        }
-        return false;
+        return res.toArray(String[]::new);
     }
 }
