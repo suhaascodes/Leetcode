@@ -4,7 +4,7 @@ class Solution {
         for (char ch:s.toCharArray()) {
             if (ch != 'i') res.append(ch);
             else {
-                res = res.reverse();
+                res.reverse();
             }
         }
         return res.toString();
