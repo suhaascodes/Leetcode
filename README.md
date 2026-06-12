@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suhaascodes/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suhaascodes/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/suhaascodes/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/suhaascodes/Leetcode/tree/master/0242-valid-anagram) |
 | [0482-license-key-formatting](https://github.com/suhaascodes/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/suhaascodes/Leetcode/tree/master/0500-keyboard-row) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suhaascodes/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/suhaascodes/Leetcode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
