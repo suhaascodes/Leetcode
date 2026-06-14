@@ -9,6 +9,6 @@ class Solution {
             }
         }
         if (max < 0) return "";
-        return String.valueOf(max) + String.valueOf(max) + String.valueOf(max);
+        return String.valueOf(max).repeat(3);
     }
 }
