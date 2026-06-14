@@ -1,6 +1,5 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        int len = num.length();
         if (num.contains("999")) return "999";
         if (num.contains("888")) return "888";
         if (num.contains("777")) return "777";
