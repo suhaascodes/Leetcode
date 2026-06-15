@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/suhaascodes/Leetcode/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/suhaascodes/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/suhaascodes/Leetcode/tree/master/2810-faulty-keyboard) |
 ## Two Pointers
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suhaascodes/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suhaascodes/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/suhaascodes/Leetcode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/suhaascodes/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/suhaascodes/Leetcode/tree/master/0242-valid-anagram) |
 | [0482-license-key-formatting](https://github.com/suhaascodes/Leetcode/tree/master/0482-license-key-formatting) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/suhaascodes/Leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/suhaascodes/Leetcode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/suhaascodes/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/suhaascodes/Leetcode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/1903-largest-odd-number-in-string) |
