@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/suhaascodes/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/suhaascodes/Leetcode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2119-a-number-after-a-double-reversal](https://github.com/suhaascodes/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Greedy
 |  |
 | ------- |
