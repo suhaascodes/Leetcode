@@ -2,7 +2,6 @@ class Solution {
     public int[] findIntersectionValues(int[] nums1, int[] nums2) {
         HashSet<Integer> n1 = new HashSet<>();
         HashSet<Integer> n2 = new HashSet<>();
-        int[] res = new int[2];
         for(int num:nums1) {
             n1.add(num);
         }
