@@ -3,25 +3,19 @@ class Solution {
         int n = nums.length;
         int evenInd = 0;
         int oddInd = 1;
-        boolean evenInc = false;
-        boolean oddInc = false;
         while (evenInd < n && oddInd < n) {
-            if (nums[evenInd]%2 != 0) {
-                evenInc = true;
-            } else {
+            if (nums[evenInd]%2 == 0) {
                 evenInd+=2;
-                evenInc = false;
             }
-            if (nums[oddInd]%2 == 0) {
-                oddInc = true;
-            } else {
+            else if (nums[oddInd]%2 != 0) {
                 oddInd+=2;
-                oddInc = false;
             }
-            if (evenInc && oddInc) {
+            else {
                 int temp = nums[oddInd];
                 nums[oddInd] = nums[evenInd];
                 nums[evenInd] = temp;
+                oddInd+= 2;
+                evenInd+= 2;
             }
         }
         return nums;
