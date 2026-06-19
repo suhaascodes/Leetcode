@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/suhaascodes/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/suhaascodes/Leetcode/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/suhaascodes/Leetcode/tree/master/0796-rotate-string) |
+| [1446-consecutive-characters](https://github.com/suhaascodes/Leetcode/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2810-faulty-keyboard](https://github.com/suhaascodes/Leetcode/tree/master/2810-faulty-keyboard) |
