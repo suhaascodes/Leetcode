@@ -14,7 +14,7 @@ class Solution {
                 left++;
             }
         }
-        if (left == right) res[0] = nums[left] * nums[left];
+        if (left == right) res[ind] = nums[left] * nums[left];
         return res;
     }
 }
