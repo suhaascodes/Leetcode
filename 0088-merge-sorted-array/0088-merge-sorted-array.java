@@ -12,10 +12,10 @@ class Solution {
                 res[ind++] = nums2[ind2++];
             }
         }
-        while (ind1 < m && ind2 >= n) {
+        while (ind1 < m) {
             res[ind++] = nums1[ind1++];
         }
-        while (ind1 >= m && ind2 < n) {
+        while (ind2 < n) {
             res[ind++] = nums2[ind2++];
         }
         for (int i=0; i<len; i++) {
