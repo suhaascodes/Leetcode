@@ -8,8 +8,8 @@ class Solution {
         for (char ch:ransomNote.toCharArray()) {
             freqR[ch-'a']++;
         }
-        for (char ch:ransomNote.toCharArray()) {
-            if (freqM[ch-'a'] / freqR[ch-'a'] < 1) return false;
+        for (int i = 0; i < 26; i++) {
+            if (freqM[i] < freqR[i]) return false;
         }
         return true;
     }
