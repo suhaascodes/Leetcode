@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suhaascodes/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/suhaascodes/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/suhaascodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/suhaascodes/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/suhaascodes/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suhaascodes/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/suhaascodes/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/suhaascodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suhaascodes/Leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/suhaascodes/Leetcode/tree/master/0500-keyboard-row) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/suhaascodes/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/suhaascodes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/suhaascodes/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/suhaascodes/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suhaascodes/Leetcode/tree/master/0169-majority-element) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/suhaascodes/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/suhaascodes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/suhaascodes/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/suhaascodes/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/suhaascodes/Leetcode/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/suhaascodes/Leetcode/tree/master/0796-rotate-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/suhaascodes/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/suhaascodes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/suhaascodes/Leetcode/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/1903-largest-odd-number-in-string) |
