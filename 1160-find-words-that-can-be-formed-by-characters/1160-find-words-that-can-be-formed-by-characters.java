@@ -10,7 +10,10 @@ class Solution {
             int[] tempFreq = freq.clone();
             for (char ch:word.toCharArray()) {
                 tempFreq[ch-'a']--;
-                if (tempFreq[ch-'a'] < 0) bool = false;
+                if (tempFreq[ch-'a'] < 0) {
+                        bool = false;
+                        break;
+                    };
             }
             if (bool) res+= word.length();
         }
