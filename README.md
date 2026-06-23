@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suhaascodes/Leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/suhaascodes/Leetcode/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/suhaascodes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/suhaascodes/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/suhaascodes/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/suhaascodes/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/suhaascodes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/suhaascodes/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/suhaascodes/Leetcode/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/suhaascodes/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2810-faulty-keyboard](https://github.com/suhaascodes/Leetcode/tree/master/2810-faulty-keyboard) |
 ## Trie
 |  |
