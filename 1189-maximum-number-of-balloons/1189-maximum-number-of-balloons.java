@@ -17,7 +17,6 @@ class Solution {
                 count = Math.min(count, map.get(ch));
             }
         }
-        if (map.get('l') >= count*2 && map.get('o') >= count*2) return count;
-        return count-1;
+        return count;
     }
 }
