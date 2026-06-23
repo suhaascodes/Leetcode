@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suhaascodes/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/suhaascodes/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/suhaascodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/suhaascodes/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suhaascodes/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/suhaascodes/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/suhaascodes/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suhaascodes/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/suhaascodes/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/suhaascodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/suhaascodes/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/suhaascodes/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Simulation
 |  |
