@@ -3,9 +3,7 @@ class Solution {
        int[] freqS = new int[26];
        int[] freqTarget = new int[26];
         for (char ch:s.toCharArray()) {
-            if (target.indexOf(ch) != -1) {
-                freqS[ch-'a']++;
-            }
+            freqS[ch-'a']++;
         }
         for (char ch:target.toCharArray()) {
             freqTarget[ch-'a']++;
