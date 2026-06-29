@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suhaascodes/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/suhaascodes/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suhaascodes/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/suhaascodes/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/suhaascodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suhaascodes/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/suhaascodes/Leetcode/tree/master/0383-ransom-note) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suhaascodes/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/suhaascodes/Leetcode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/suhaascodes/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/suhaascodes/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suhaascodes/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/suhaascodes/Leetcode/tree/master/0383-ransom-note) |
 | [0482-license-key-formatting](https://github.com/suhaascodes/Leetcode/tree/master/0482-license-key-formatting) |
