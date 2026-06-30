@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/suhaascodes/Leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/suhaascodes/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/suhaascodes/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/suhaascodes/Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/suhaascodes/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/suhaascodes/Leetcode/tree/master/0189-rotate-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/suhaascodes/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/suhaascodes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
