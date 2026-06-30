@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/suhaascodes/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/suhaascodes/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/suhaascodes/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/suhaascodes/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/suhaascodes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/suhaascodes/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/suhaascodes/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/suhaascodes/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/suhaascodes/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/suhaascodes/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2965-find-missing-and-repeated-values](https://github.com/suhaascodes/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/suhaascodes/Leetcode/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/suhaascodes/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
