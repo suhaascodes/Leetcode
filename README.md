@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/suhaascodes/Leetcode/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/suhaascodes/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/suhaascodes/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/suhaascodes/Leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/suhaascodes/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/suhaascodes/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/suhaascodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -201,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/suhaascodes/Leetcode/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/suhaascodes/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
