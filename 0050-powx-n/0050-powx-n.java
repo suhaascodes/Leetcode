@@ -1,8 +1,8 @@
 class Solution {
     public double myPow(double x, int n) {
         long binForm = n;
-        if (n < 0) {
-            binForm  = -binForm;
+        if (binForm < 0) {
+            binForm = -binForm;
             x = 1/x;
         }
         double ans = 1;
