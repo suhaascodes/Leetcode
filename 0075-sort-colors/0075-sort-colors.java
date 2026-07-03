@@ -1,16 +1,17 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int red = 0;
-        int white = 0;
-        int blue = 0;
+        int n = nums.length;
+        int c1 = 0;
+        int c2 = 0;
+        int c3 = 0;
         for (int num:nums) {
-            if (num == 0) red++;
-            else if (num == 1) white++;
-            else blue++;
+            if (num == 0) c1++;
+            else if (num == 1) c2++;
+            else c3++;
         }
         int ind = 0;
-        while (red-- > 0) nums[ind++] = 0;
-        while (white-- > 0) nums[ind++] = 1;
-        while (blue-- > 0) nums[ind++] = 2;
+        while (c1-- > 0) nums[ind++] = 0;
+        while (c2-- > 0) nums[ind++] = 1;
+        while (c3-- > 0) nums[ind++] = 2;
     }
 }
