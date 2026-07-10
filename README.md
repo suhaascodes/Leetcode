@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/suhaascodes/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suhaascodes/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/suhaascodes/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/suhaascodes/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/suhaascodes/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/suhaascodes/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/suhaascodes/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/suhaascodes/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/suhaascodes/Leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/suhaascodes/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/suhaascodes/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2460-apply-operations-to-an-array](https://github.com/suhaascodes/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/suhaascodes/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/suhaascodes/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suhaascodes/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/suhaascodes/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
