@@ -4,7 +4,7 @@ class Solution {
         int n = matrix[0].length;
         int i = 0;
         int j = n-1;
-        while (i < m && i >= 0 && j < n && j >= 0) {
+        while (i < m && j >= 0) {
             int num = matrix[i][j];
             if (num == target) {
                 return true;
