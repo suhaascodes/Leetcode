@@ -2,13 +2,13 @@ class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
-        int total = m*n;
         List<Integer> ans = new ArrayList<>();
-        int count = 0;
         int firstRow = 0;
-        int lastRow = m-1;
         int firstCol = 0;
+        int lastRow = m-1;
         int lastCol = n-1;
+        int total = m*n;
+        int count = 0;
         while (count < total) {
             //firstRow
             for (int i=firstCol; count < total && i <= lastCol; i++) {
