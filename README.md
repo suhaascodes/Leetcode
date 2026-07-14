@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/suhaascodes/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/suhaascodes/Leetcode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/suhaascodes/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/suhaascodes/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/suhaascodes/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2460-apply-operations-to-an-array](https://github.com/suhaascodes/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/suhaascodes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/suhaascodes/Leetcode/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/suhaascodes/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/suhaascodes/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/suhaascodes/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/suhaascodes/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/suhaascodes/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
