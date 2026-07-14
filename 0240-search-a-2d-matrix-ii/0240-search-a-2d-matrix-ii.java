@@ -6,9 +6,8 @@ class Solution {
         int j = n-1;
         while (i < m && j >= 0) {
             int num = matrix[i][j];
-            if (num == target) {
-                return true;
-            } else if (num < target) {
+            if (num == target) return true;
+            else if (num < target) {
                 i++;
             } else {
                 j--;
