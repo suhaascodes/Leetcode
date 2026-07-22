@@ -4,20 +4,18 @@ class Solution {
         int m = nums2.length;
         int[] ans = new int[n];
         int ind = 0;
-        for (int i=0; i<n; i++) {
-            int num = Integer.MAX_VALUE;
-            for (int j=0; j<m; j++) {
-                if (nums1[i] == nums2[j]) {
-                    num = nums1[i];
+        for (int num:nums1) {
+            Deque<Integer> stack = new ArrayDeque<>();
+            for (int i=m-1; i>=0; i--) {
+                if (num == nums2[i]) break;
+                else if (nums2[i] > num) {
+                    stack.push(nums2[i]);
                 }
-                if (nums2[j] > num) {
-                    ans[ind++] = nums2[j];
-                    break;
-                }
-                if (j == m-1 && nums2[j] <= num) {
-                    ans[ind++] = -1;
-                    break;
-                }
+            }
+            if (stack.isEmpty()) {
+                ans[ind++] = -1;
+            } else {
+                ans[ind++] = stack.peek();
             }
         }
         return ans;
