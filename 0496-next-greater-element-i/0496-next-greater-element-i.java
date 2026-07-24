@@ -3,20 +3,22 @@ class Solution {
         int n = nums1.length;
         int m = nums2.length;
         int[] ans = new int[n];
-        int ind = 0;
-        for (int num:nums1) {
-            Deque<Integer> stack = new ArrayDeque<>();
-            for (int i=m-1; i>=0; i--) {
-                if (num == nums2[i]) break;
-                else if (nums2[i] > num) {
-                    stack.push(nums2[i]);
-                }
+        HashMap <Integer, Integer> map = new HashMap<>();
+        Deque <Integer> stack = new ArrayDeque<>();
+        for (int i=m-1; i>=0; i--) {
+            int num = nums2[i];
+            while (stack.size() > 0 && stack.peek() <= num) {
+                stack.pop();
             }
-            if (stack.isEmpty()) {
-                ans[ind++] = -1;
+            if (!stack.isEmpty()) {
+                map.put(num, stack.peek());
             } else {
-                ans[ind++] = stack.peek();
+                map.put(num, -1);
             }
+            stack.push(num);
+        }
+        for (int i=0; i<n; i++) {
+            ans[i] = map.get(nums1[i]);
         }
         return ans;
     }
