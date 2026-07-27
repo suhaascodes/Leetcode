@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/suhaascodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/suhaascodes/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/suhaascodes/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/suhaascodes/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/suhaascodes/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2965-find-missing-and-repeated-values](https://github.com/suhaascodes/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/suhaascodes/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
