@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/suhaascodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/suhaascodes/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/suhaascodes/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suhaascodes/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/suhaascodes/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/suhaascodes/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/suhaascodes/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2810-faulty-keyboard](https://github.com/suhaascodes/Leetcode/tree/master/2810-faulty-keyboard) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suhaascodes/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/suhaascodes/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suhaascodes/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
